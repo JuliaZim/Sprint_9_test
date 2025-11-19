@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver import ChromeOptions
 from selenium.webdriver.common.by import By
 
-
+#Коммент
 class TestExample:
     @pytest.fixture
     def driver(self):
